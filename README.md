@@ -8,4 +8,5 @@ The different codes are :
   - The code that separate a CSV file into columns ( TransfoCSV)
   - The code that do a periodigram to check the periodicity ( periodigram)
   - The code that withdraw the Temperature sensor data ( TempFilter)
+  - The code that compute the probabilities of the different scenarios ( automaticdetection)
 
